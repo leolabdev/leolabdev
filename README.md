@@ -1,16 +1,41 @@
-## Hi there 👋
+### Hello, my name is Leo  👋  
 
-<!--
-**leolabdev/leolabdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/leo-hannolainen-860859205/">
+  <img align="left" alt="Leos's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/profile.php?id=100075215934509">
+  <img align="left" alt="Leo's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://twitter.com/LeoHannolainen">
+  <img align="left" alt="Leos's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" width="207rem" alt="GIF" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" />
+
+**A little bit about me:**
+- 🏠 I’m living in Finland, Lahti  🇫🇮
+- 🎓 I have completed my ICT studies at @ [LAB University of Applied Sciences](https://lab.fi/en)
+- 🌱  At the moment I'm learning React
+- 💬  Ask me about anything, I am happy to help.
+- 📫  How to reach me: leohannolainen999@gmail.com
+- 🚀 I plan to learn next: nestjs, react mobx
+
+***
+
+
+![Anurag's github stats](https://github-readme-stats-leolabdev-projects.vercel.app//api?username=leolabdev&show_icons=true&show=reviews,prs_merged_percentage) 
+
+
+#### The summary of the main languages present on my github : 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leolabdev&layout=compact)
+
+---
+
+<p align="center"> 
+  <img width= 200rem src="https://komarev.com/ghpvc/?username=leolabdev&style=plastic&color=5194f0" />
+</p>
+
+
