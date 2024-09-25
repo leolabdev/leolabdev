@@ -19,8 +19,6 @@
 - 🎓 I have completed my ICT studies at @ [LAB University of Applied Sciences](https://lab.fi/en)
 - 🌱  At the moment I'm learning AST
 - 💬  Ask me about anything, I am happy to help.
-- 📫  How to reach me: leohannolainen999@gmail.com
-- 🚀 I plan to learn next: nestjs, react mobx
 
 ***
 
